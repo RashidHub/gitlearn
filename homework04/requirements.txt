@@ -1,0 +1,5 @@
+beautifulsoup4==4.8.1
+bs4==0.0.1
+requests==2.22.0
+configparser==3.7.4	
+pytelegrambotapi==3.6.6	
